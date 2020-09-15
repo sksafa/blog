@@ -1,2 +1,2 @@
 # blog
-This is a blog website developed by php object oriented programming 
+upload the sql file "db_blog.sql"n in database 
